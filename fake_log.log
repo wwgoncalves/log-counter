@@ -1,0 +1,24 @@
+01/01/2001 09:00:01.001 : TClassName.FunctionName1 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.001 : TClassName.ProcedureName1 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.001 : TClassName.ProcedureName2 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.001 : TClassName.ProcedureName2 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.001 : TClassName.ProcedureName2 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.002 : TClassName.ProcedureName2 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.002 : TClassName.ProcedureName2 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.013 : TClassName.ProcedureName3 : X has been logged with Field1=1.0; Field2=800; Field3=True; Field4=Good 
+01/01/2001 09:00:01.013 : TClassName.ProcedureName4 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.013 : TClassName.ProcedureName4 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:01.013 : TClassName.ProcedureName5 : X has been logged with Field1=1.5; Field2=800; Field3=False 
+01/01/2001 09:00:01.013 : TClassName.ProcedureName6 : X has been logged with Field1=1.0; Field2=800; Field3=False 
+01/01/2001 09:00:01.100 : TClassName.ProcedureName6 : X has been logged with Field1=1.0; Field2=300; Field3=False; Field4=Awesome 
+01/01/2001 09:00:02.001 : TClassName.ProcedureName6 : X has been logged with Field1=1.0; Field2=300; Field3=True 
+01/01/2001 09:00:02.001 : TClassName.ProcedureName6 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:02.001 : TClassName.ProcedureName6 : X has been logged with Field1=2.0; Field2=800; Field3=True 
+01/01/2001 09:00:02.060 : TClassName.ProcedureName6 : X has been logged with Field1=1.0; Field2=100; Field3=True 
+01/01/2001 09:00:03.001 : TClassName.ProcedureName7 : X has been logged with Field1=1.0; Field2=100; Field3=True 
+01/01/2001 09:00:03.001 : TClassName.ProcedureName8 : X has been logged with Field1=1.0; Field2=800; Field3=False 
+01/01/2001 09:00:03.010 : TClassName.ProcedureName9 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:03.021 : TClassName.FunctionName2 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:03.021 : TClassName.ProcedureName10 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:03.021 : TClassName.FunctionName3 : X has been logged with Field1=1.0; Field2=800; Field3=True 
+01/01/2001 09:00:03.031 : TClassName.ProcedureName11 : X has been logged with Field1=1.0; Field2=800; Field3=True 
